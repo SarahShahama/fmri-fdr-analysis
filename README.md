@@ -53,6 +53,11 @@ Extend the analysis to more conditions within the Haxby dataset.
 
 Apply dimensionality reduction and classification methods for decoding visual stimuli.
 
+## 📦 Data Availability
+The Haxby 2001 fMRI dataset used in this project is publicly available through the [PyMVPA dataset repository](https://www.pymvpa.org/datadb/haxby2001.html) and [OpenNeuro](https://openneuro.org/datasets/ds000105).  
+Only processed results and visualizations are included in this repository.
+
+
 ✨ Author
 
 Sarah Shahama V P
